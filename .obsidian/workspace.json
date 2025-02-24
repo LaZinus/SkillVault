@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Core.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Core"
             }
           }
         ]
@@ -198,8 +198,15 @@
   },
   "active": "c23a1678c4924c35",
   "lastOpenFiles": [
-    "Das ist ein Test.md",
+    "Sprachen lernen",
+    "Kreatives & Fotografie",
+    "Soft Skills & Business",
+    "Programmieren & Technik",
+    "Core.md",
+    "Test Link.md",
+    "Welcome.md",
+    "Link Test.md",
     "create a link.md",
-    "Welcome.md"
+    "Das ist ein Test.md"
   ]
 }
